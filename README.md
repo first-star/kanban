@@ -1,24 +1,7 @@
-# README
+タスク管理ツール
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+アプリケーション概要：Trello風のタスク管理ツール。リストの作成・カードの作成並びにそれらの編集・削除機能
 
-Things you may want to cover:
+URL：
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+テスト用アカウント：　
